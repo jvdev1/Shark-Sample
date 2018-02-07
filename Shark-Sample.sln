@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shark-Sample", "Shark-Sample\Shark-Sample.csproj", "{6FCA3385-A1D6-46BB-9D10-B6408C10E35F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shark-Sample-DataContracts", "Shark-Sample-DataContracts\Shark-Sample-DataContracts.csproj", "{C439FF3C-D7F0-4444-A884-E23B681D793A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCA3385-A1D6-46BB-9D10-B6408C10E35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCA3385-A1D6-46BB-9D10-B6408C10E35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCA3385-A1D6-46BB-9D10-B6408C10E35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCA3385-A1D6-46BB-9D10-B6408C10E35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C439FF3C-D7F0-4444-A884-E23B681D793A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C439FF3C-D7F0-4444-A884-E23B681D793A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C439FF3C-D7F0-4444-A884-E23B681D793A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C439FF3C-D7F0-4444-A884-E23B681D793A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBDFA6D2-4002-4E20-A71B-C7318417977A}
+	EndGlobalSection
+EndGlobal
